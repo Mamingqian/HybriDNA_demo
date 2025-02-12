@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 ---
 
-# HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model
+# A Hybrid Transformer-Mamba2 Long-Range DNA Language Model
 
 [Read the Full Paper](#)
 
@@ -14,6 +14,7 @@ markdown: kramdown
 Advances in NLP and large language models have sparked interest in modeling DNA, the “language of life.” However, DNA modeling poses unique challenges...
 
 **Key Highlights:**
+
 - Processes sequences up to 131kb
 - Combines Transformer and Mamba2 blocks
 - Echo Embedding for understanding fine-tuning
